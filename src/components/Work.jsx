@@ -27,13 +27,13 @@ const Work = () => {
                 Budget Tracker
               </span>
               <div className="pt-8 text-center">
-                <a href="https://www.rivastpllc.com/">
+                <a href="https://www.rivastpllc.com">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
 
-                <a href="https://github.com/Clos01/rivastpllc">
+                <a href="https://github.com/Clos01/rivastpllc   ">
                   <button className="text-center  rounded-lg px-4 py-3 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
