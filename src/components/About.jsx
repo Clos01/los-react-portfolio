@@ -15,7 +15,8 @@ const About = () => {
         <div className='sm:text-right text-4xl font-bold '>
             <p>Hi. I'm Carlos Rivas Nice to meet you. Please take a look around </p>
             <img  className='w-[20rem] h-[23rem] rounded-lg'
-              src={portpic} />
+              src={portpic} alt= "carlos img "/>
+              
         </div>
        <p className='text-[15px]'> A little about myself.. i am passionate about building software that can help improve the lives of those around me and myself. I want to learn as much as i can and hopefully one day have a business of my mine and i love building things from scratch and this is why being a developer is fun to me because you get to see the process of how it all started. </p> 
     </div>

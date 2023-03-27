@@ -11,16 +11,13 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Work
           </p>
-          <p className="py-6">// Check out some of my recent work </p>
+          <p className="py-6"> Check out some of my recent work </p>
         </div>
-        {/* card conatiner     */}
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4  py-1 ">
-          {/* grid item  */}
           <div
             style={{ backgroundImage: `url(${rivas})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* hover effects  */}
 
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -42,13 +39,12 @@ const Work = () => {
             </div>
           </div>
         </div>{" "}
-        {/* card conatiner     */}
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4  py-2">
           <div
             style={{ backgroundImage: `url(${Dash})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div py-9"
           >
-            {/* hover effects  */}
+
             <div className="opacity-0 group-hover:opacity-100">
               <div>
                 <span className="text-2xl font-bold text-white tracking-wider">
@@ -71,13 +67,11 @@ const Work = () => {
             </div>
           </div>
         </div>
-        {/* card conatiner     */}
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4 py-2 ">
           <div
             style={{ backgroundImage: `url(${friendless})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* hover effects  */}
             <div className="opacity-0 group-hover:opacity-100">
               <div>
                 <span className="text-2xl font-bold text-white tracking-wider">
